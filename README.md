@@ -25,3 +25,6 @@ contains robot file/s to configure tests setup (actions before the tests) and te
 
 tests directory:
 contains robot file/s to use the tests steps and scenarios to be run.
+
+what to be added in the future ??
+Jenkins integration, docker integration, DDT design.
